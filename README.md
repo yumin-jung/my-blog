@@ -1,4 +1,4 @@
-# blog-code
+# my-blog
 
 > https://velog.io/@yumin-jung
 
